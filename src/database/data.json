@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Fernando Meireles",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "email": "fernando.meireles@gmail.com",
+    "salary": 25000,
+    "date": "2023-06-02",
+    "status": "Active"
+  },
+
+  {
+    "id": 2,
+    "name": "Carlos Cavalcante",
+    "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+    "email": "carlos.cavalcante@gmail.com",
+    "salary": 22000,
+    "date": "2023-07-02",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "Roberto Albuquerque",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "email": "roberto.albuquerque@gmail.com",
+    "salary": 26000,
+    "date": "2023-08-02",
+    "status": "Active"
+  }
+]
